@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Moin Uddin Ahmed</h1>
-<h3 align="center">A veteran linux and python developer and researcher from Bangladesh</h3>
+<h3 align="center">A linux and python developer and researcher from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marufmoinuddin&label=Profile%20views&color=0e75b6&style=flat" alt="marufmoinuddin" /> </p>
 
@@ -31,6 +31,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufmoinuddin&show_icons=true&locale=en&layout=compact" alt="marufmoinuddin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marufmoinuddin&show_icons=true&locale=en" alt="marufmoinuddin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marufmoinuddin&" alt="marufmoinuddin" /></p>
